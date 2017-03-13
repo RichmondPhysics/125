@@ -1,0 +1,1052 @@
+This is pdfTeX, Version 3.1415926-2.4-1.40.13 (MiKTeX 2.9) (preloaded format=latex 2013.6.3)  9 APR 2015 11:45
+entering extended mode
+**master
+(C:\Users\hnebel\Documents\LabPHY125\master.tex
+LaTeX2e <2011/06/27>
+Babel <v3.8m> and hyphenation patterns for english, afrikaans, ancientgreek, ar
+abic, armenian, assamese, basque, bengali, bokmal, bulgarian, catalan, coptic, 
+croatian, czech, danish, dutch, esperanto, estonian, farsi, finnish, french, ga
+lician, german, german-x-2012-05-30, greek, gujarati, hindi, hungarian, iceland
+ic, indonesian, interlingua, irish, italian, kannada, kurmanji, latin, latvian,
+ lithuanian, malayalam, marathi, mongolian, mongolianlmc, monogreek, ngerman, n
+german-x-2012-05-30, nynorsk, oriya, panjabi, pinyin, polish, portuguese, roman
+ian, russian, sanskrit, serbian, slovak, slovenian, spanish, swedish, swissgerm
+an, tamil, telugu, turkish, turkmen, ukenglish, ukrainian, uppersorbian, usengl
+ishmax, welsh, loaded.
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\base\article.cls"
+Document Class: article 2007/10/19 v1.4h Standard LaTeX document class
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\base\size10.clo"
+File: size10.clo 2007/10/19 v1.4h Standard LaTeX file (size option)
+)
+\c@part=\count79
+\c@section=\count80
+\c@subsection=\count81
+\c@subsubsection=\count82
+\c@paragraph=\count83
+\c@subparagraph=\count84
+\c@figure=\count85
+\c@table=\count86
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen102
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\base\fontenc.sty"
+Package: fontenc 2005/09/27 v1.99g Standard LaTeX package
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\base\t1enc.def"
+File: t1enc.def 2005/09/27 v1.99g Standard LaTeX file
+LaTeX Font Info:    Redeclaring font encoding T1 on input line 43.
+))
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\geometry\geometry.sty"
+Package: geometry 2010/09/12 v5.6 Page Geometry
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\graphics\keyval.sty"
+Package: keyval 1999/03/16 v1.13 key=value parser (DPC)
+\KV@toks@=\toks14
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\oberdiek\ifpdf.sty"
+Package: ifpdf 2011/01/30 v2.3 Provides the ifpdf switch (HO)
+Package ifpdf Info: pdfTeX in PDF mode is not detected.
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\oberdiek\ifvtex.sty"
+Package: ifvtex 2010/03/01 v1.5 Detect VTeX and its facilities (HO)
+Package ifvtex Info: VTeX not detected.
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\ifxetex\ifxetex.sty"
+Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
+)
+\Gm@cnth=\count87
+\Gm@cntv=\count88
+\c@Gm@tempcnt=\count89
+\Gm@bindingoffset=\dimen103
+\Gm@wd@mp=\dimen104
+\Gm@odd@mp=\dimen105
+\Gm@even@mp=\dimen106
+\Gm@layoutwidth=\dimen107
+\Gm@layoutheight=\dimen108
+\Gm@layouthoffset=\dimen109
+\Gm@layoutvoffset=\dimen110
+\Gm@dimlist=\toks15
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\geometry\geometry.cfg"))
+(C:\Users\hnebel\Documents\LabPHY125\fancyhdr.sty
+\fancy@headwidth=\skip43
+\f@ncyO@elh=\skip44
+\f@ncyO@erh=\skip45
+\f@ncyO@olh=\skip46
+\f@ncyO@orh=\skip47
+\f@ncyO@elf=\skip48
+\f@ncyO@erf=\skip49
+\f@ncyO@olf=\skip50
+\f@ncyO@orf=\skip51
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\babel\babel.sty"
+Package: babel 2008/07/08 v3.8m The Babel package
+
+*************************************
+* Local config file bblopts.cfg used
+*
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\00miktex\bblopts.cfg"
+File: bblopts.cfg 2006/07/31 v1.0 MiKTeX 'babel' configuration
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\babel\english.ldf"
+Language: english 2005/03/30 v3.3o English support from the babel system
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\babel\babel.def"
+File: babel.def 2008/07/08 v3.8m Babel common definitions
+\babel@savecnt=\count90
+\U@D=\dimen111
+)
+\l@canadian = a dialect from \language\l@american 
+\l@australian = a dialect from \language\l@british 
+\l@newzealand = a dialect from \language\l@british 
+))
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\graphics\graphicx.sty"
+Package: graphicx 1999/02/16 v1.0f Enhanced LaTeX Graphics (DPC,SPQR)
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\graphics\graphics.sty"
+Package: graphics 2009/02/05 v1.0o Standard LaTeX Graphics (DPC,SPQR)
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\graphics\trig.sty"
+Package: trig 1999/03/16 v1.09 sin cos tan (DPC)
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\00miktex\graphics.cfg"
+File: graphics.cfg 2007/01/18 v1.5 graphics configuration of teTeX/TeXLive
+)
+Package graphics Info: Driver file: dvips.def on input line 91.
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\graphics\dvips.def"
+File: dvips.def 1999/02/16 v3.0i Driver-dependant file (DPC,SPQR)
+))
+\Gin@req@height=\dimen112
+\Gin@req@width=\dimen113
+)
+(C:\Users\hnebel\Documents\LabPHY125\master.aux
+(C:\Users\hnebel\Documents\LabPHY125\measuring.aux)
+(C:\Users\hnebel\Documents\LabPHY125\measurement.aux)
+(C:\Users\hnebel\Documents\LabPHY125\position.aux)
+(C:\Users\hnebel\Documents\LabPHY125\velocity.aux)
+(C:\Users\hnebel\Documents\LabPHY125\relating.aux)
+(C:\Users\hnebel\Documents\LabPHY125\changing.aux)
+(C:\Users\hnebel\Documents\LabPHY125\slowing.aux)
+(C:\Users\hnebel\Documents\LabPHY125\grav_freefall.aux)
+(C:\Users\hnebel\Documents\LabPHY125\force1.aux)
+(C:\Users\hnebel\Documents\LabPHY125\newton.aux)
+(C:\Users\hnebel\Documents\LabPHY125\friction.aux)
+(C:\Users\hnebel\Documents\LabPHY125\elec_grav.aux)
+(C:\Users\hnebel\Documents\LabPHY125\momentum.aux)
+(C:\Users\hnebel\Documents\LabPHY125\work_power.aux)
+(C:\Users\hnebel\Documents\LabPHY125\work_kinetic.aux)
+(C:\Users\hnebel\Documents\LabPHY125\conservation_mech.aux)
+(C:\Users\hnebel\Documents\LabPHY125\hooke.aux)
+(C:\Users\hnebel\Documents\LabPHY125\periodic_motion.aux)
+(C:\Users\hnebel\Documents\LabPHY125\pendulum_period.aux)
+(C:\Users\hnebel\Documents\LabPHY125\heat_temp_int_energy.aux)
+(C:\Users\hnebel\Documents\LabPHY125\boyles_law.aux)
+(C:\Users\hnebel\Documents\LabPHY125\calorimetry.aux)
+(C:\Users\hnebel\Documents\LabPHY125\Standing_waves_strings.aux)
+(C:\Users\hnebel\Documents\LabPHY125\resonance_tubes.aux)
+(C:\Users\hnebel\Documents\LabPHY125\electrostatics.aux)
+(C:\Users\hnebel\Documents\LabPHY125\EF_EP_1.aux)
+(C:\Users\hnebel\Documents\LabPHY125\EF_EP_2.aux)
+(C:\Users\hnebel\Documents\LabPHY125\ohms_law.aux)
+(C:\Users\hnebel\Documents\LabPHY125\magnetism_1.aux)
+(C:\Users\hnebel\Documents\LabPHY125\magnetism_2.aux)
+(C:\Users\hnebel\Documents\LabPHY125\magnetism_3.aux)
+(C:\Users\hnebel\Documents\LabPHY125\magnetic_field_earth.aux)
+(C:\Users\hnebel\Documents\LabPHY125\electromagnetic_induction.aux)
+(C:\Users\hnebel\Documents\LabPHY125\induction2.aux)
+(C:\Users\hnebel\Documents\LabPHY125\refraction_of_light.aux)
+(C:\Users\hnebel\Documents\LabPHY125\refraction_at_spherical_surfaces.aux)
+(C:\Users\hnebel\Documents\LabPHY125\interference_of_light.aux)
+(C:\Users\hnebel\Documents\LabPHY125\diffraction2.aux)
+(C:\Users\hnebel\Documents\LabPHY125\diffraction_grating.aux)
+(C:\Users\hnebel\Documents\LabPHY125\hydrogen.aux)
+(C:\Users\hnebel\Documents\LabPHY125\treatment_data.aux)
+(C:\Users\hnebel\Documents\LabPHY125\datastudio.aux)
+(C:\Users\hnebel\Documents\LabPHY125\excel.aux)
+(C:\Users\hnebel\Documents\LabPHY125\video_analysis.aux)
+(C:\Users\hnebel\Documents\LabPHY125\video_analysis_tracker.aux)
+(C:\Users\hnebel\Documents\LabPHY125\instrumentation.aux))
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 57.
+LaTeX Font Info:    ... okay on input line 57.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 57.
+LaTeX Font Info:    ... okay on input line 57.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 57.
+LaTeX Font Info:    ... okay on input line 57.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 57.
+LaTeX Font Info:    ... okay on input line 57.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 57.
+LaTeX Font Info:    ... okay on input line 57.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 57.
+LaTeX Font Info:    ... okay on input line 57.
+
+*geometry* driver: auto-detecting
+*geometry* detected driver: dvips
+
+Package geometry Warning: The marginal notes overrun the paper.
+     Add 21.42575pt and more to the right margin.
+
+*geometry* verbose mode - [ preamble ] result:
+* driver: dvips
+* paper: letterpaper
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: twoside 
+* h-part:(L,W,R)=(73.71613pt, 430.00462pt, 110.57425pt)
+* v-part:(T,H,B)=(95.39737pt, 556.47656pt, 143.09605pt)
+* \paperwidth=614.295pt
+* \paperheight=794.96999pt
+* \textwidth=486.91013pt
+* \textheight=656.0612pt
+* \oddsidemargin=1.44614pt
+* \evensidemargin=38.30426pt
+* \topmargin=18.06749pt
+* \headheight=12.0pt
+* \headsep=25.0pt
+* \topskip=10.0pt
+* \footskip=30.0pt
+* \marginparwidth=121.0pt
+* \marginparsep=11.0pt
+* \columnsep=10.0pt
+* \skip\footins=9.0pt plus 4.0pt minus 2.0pt
+* \hoffset=-28.45274pt
+* \voffset=-42.67912pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidetrue
+* \@mparswitchtrue
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <12> on input line 70.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <8> on input line 70.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 70.
+[1
+
+] (C:\Users\hnebel\Documents\LabPHY125\master.toc [1]
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <7> on input line 45.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <5> on input line 45.
+)
+\tf@toc=\write3
+ [2]
+(C:\Users\hnebel\Documents\LabPHY125\measuring.tex
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <14.4> on input line 6.
+LaTeX Font Info:    Try loading font information for OMS+cmr on input line 14.
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\base\omscmr.fd"
+File: omscmr.fd 1999/05/25 v2.5h Standard LaTeX font definitions
+)
+LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <10> not available
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 14.
+ [3
+
+]
+File: measuring_fig1.eps Graphic file (type eps)
+
+<measuring_fig1.eps>
+File: measuring_fig2.eps Graphic file (type eps)
+ <measuring_fig2.eps>
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [4]
+[5]
+File: measuring_fig3.eps Graphic file (type eps)
+ <measuring_fig3.eps>) [6]
+(C:\Users\hnebel\Documents\LabPHY125\measurement.tex [7
+
+
+] [8]) [9]
+(C:\Users\hnebel\Documents\LabPHY125\position.tex [10
+
+
+]
+File: position_fig1.eps Graphic file (type eps)
+ <position_fig1.eps>
+File: position_fig1.eps Graphic file (type eps)
+
+<position_fig1.eps>
+File: position_fig1.eps Graphic file (type eps)
+ <position_fig1.eps> [11]
+File: position_fig2.eps Graphic file (type eps)
+ <position_fig2.eps>
+File: position_fig3.eps Graphic file (type eps)
+
+<position_fig3.eps> [12]
+File: position_fig4.eps Graphic file (type eps)
+ <position_fig4.eps> [13]
+File: position_fig5.eps Graphic file (type eps)
+ <position_fig5.eps>
+File: position_fig6.eps Graphic file (type eps)
+
+<position_fig6.eps>
+File: position_fig7.eps Graphic file (type eps)
+ <position_fig7.eps>
+File: position_fig8.eps Graphic file (type eps)
+ <position_fig8.eps>
+File: position_fig9.eps Graphic file (type eps)
+
+<position_fig9.eps> [14]
+File: position_fig10.eps Graphic file (type eps)
+ <position_fig10.eps>
+File: position_fig11.eps Graphic file (type eps)
+ <position_fig11.eps>
+File: position_fig12.eps Graphic file (type eps)
+
+<position_fig12.eps>
+File: position_fig13.eps Graphic file (type eps)
+ <position_fig13.eps> [15]
+File: position_fig13.eps Graphic file (type eps)
+ <position_fig13.eps>
+File: position_fig13.eps Graphic file (type eps)
+
+<position_fig13.eps>
+File: position_fig13.eps Graphic file (type eps)
+ <position_fig13.eps>
+File: position_fig13.eps Graphic file (type eps)
+ <position_fig13.eps>
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [16])
+[17] (C:\Users\hnebel\Documents\LabPHY125\velocity.tex
+File: velocity_fig1.eps Graphic file (type eps)
+ <velocity_fig1.eps>
+File: velocity_fig1.eps Graphic file (type eps)
+
+<velocity_fig1.eps> [18
+
+
+]
+File: velocity_fig1.eps Graphic file (type eps)
+ <velocity_fig1.eps>
+File: velocity_fig2.eps Graphic file (type eps)
+ <velocity_fig2.eps>
+Underfull \vbox (badness 1629) has occurred while \output is active []
+
+ [19]
+File: velocity_fig2.eps Graphic file (type eps)
+
+<velocity_fig2.eps> [20]
+File: velocity_fig3.eps Graphic file (type eps)
+ <velocity_fig3.eps>
+File: velocity_fig4.eps Graphic file (type eps)
+ <velocity_fig4.eps>
+File: velocity_fig5.eps Graphic file (type eps)
+
+<velocity_fig5.eps>
+File: velocity_fig6.eps Graphic file (type eps)
+ <velocity_fig6.eps>
+File: velocity_fig7.eps Graphic file (type eps)
+ <velocity_fig7.eps>
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [21]
+File: velocity_fig8.eps Graphic file (type eps)
+
+<velocity_fig8.eps>
+Underfull \vbox (badness 2020) has occurred while \output is active []
+
+ [22]
+File: velocity_fig9.eps Graphic file (type eps)
+
+<velocity_fig9.eps>
+File: velocity_fig10.eps Graphic file (type eps)
+ <velocity_fig10.eps>
+File: velocity_fig11.eps Graphic file (type eps)
+ <velocity_fig11.eps>
+File: velocity_fig12.eps Graphic file (type eps)
+
+<velocity_fig12.eps>
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [23]
+File: velocity_fig13.eps Graphic file (type eps)
+
+<velocity_fig13.eps>
+File: velocity_fig14.eps Graphic file (type eps)
+ <velocity_fig14.eps>
+File: velocity_fig15.eps Graphic file (type eps)
+ <velocity_fig15.eps>
+File: velocity_fig15.eps Graphic file (type eps)
+
+<velocity_fig15.eps> [24]
+File: velocity_fig16.eps Graphic file (type eps)
+ <velocity_fig16.eps>
+File: velocity_fig16.eps Graphic file (type eps)
+ <velocity_fig16.eps>) [25]
+(C:\Users\hnebel\Documents\LabPHY125\relating.tex
+File: relating_fig1.eps Graphic file (type eps)
+ <relating_fig1.eps> [26
+
+
+]
+[27]
+File: relating_fig2.eps Graphic file (type eps)
+ <relating_fig2.eps> [28]
+File: relating_fig3.eps Graphic file (type eps)
+ <relating_fig3.eps>
+File: relating_fig4.eps Graphic file (type eps)
+ <relating_fig4.eps>
+File: relating_fig5.eps Graphic file (type eps)
+
+<relating_fig5.eps>
+File: relating_fig6.eps Graphic file (type eps)
+ <relating_fig6.eps>
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [29])
+[30] (C:\Users\hnebel\Documents\LabPHY125\changing.tex
+File: changing_fig1.eps Graphic file (type eps)
+ <changing_fig1.eps>
+[31
+
+
+]
+File: changing_fig2.eps Graphic file (type eps)
+ <changing_fig2.eps> [32]
+File: changing_fig3.eps Graphic file (type eps)
+ <changing_fig3.eps> [33]
+File: changing_fig1.eps Graphic file (type eps)
+ <changing_fig1.eps>
+File: changing_fig2.eps Graphic file (type eps)
+
+<changing_fig2.eps>
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [34]
+[35]
+File: changing_fig4.eps Graphic file (type eps)
+ <changing_fig4.eps>
+Underfull \vbox (badness 3482) has occurred while \output is active []
+
+ [36]
+File: changing_fig5.eps Graphic file (type eps)
+
+<changing_fig5.eps>
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [37]
+File: changing_fig5.eps Graphic file (type eps)
+
+<changing_fig5.eps>
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [38]
+File: changing_fig6.eps Graphic file (type eps)
+
+<changing_fig6.eps> [39]
+File: changing_fig7.eps Graphic file (type eps)
+ <changing_fig7.eps>
+File: changing_fig8.eps Graphic file (type eps)
+ <changing_fig8.eps>
+File: changing_fig9.eps Graphic file (type eps)
+
+<changing_fig9.eps>
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [40]
+File: changing_fig10.eps Graphic file (type eps)
+
+<changing_fig10.eps>
+File: changing_fig11.eps Graphic file (type eps)
+ <changing_fig11.eps> [41]
+File: changing_fig12.eps Graphic file (type eps)
+ <changing_fig12.eps>
+File: changing_fig12.eps Graphic file (type eps)
+
+<changing_fig12.eps>
+File: changing_fig12.eps Graphic file (type eps)
+ <changing_fig12.eps>
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [42]
+File: changing_fig12.eps Graphic file (type eps)
+
+<changing_fig12.eps>) [43] (C:\Users\hnebel\Documents\LabPHY125\slowing.tex
+File: slowing_fig1.eps Graphic file (type eps)
+
+<slowing_fig1.eps> [44
+
+
+] [45]
+File: slowing_fig2.eps Graphic file (type eps)
+ <slowing_fig2.eps>
+File: slowing_fig1.eps Graphic file (type eps)
+ <slowing_fig1.eps>
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [46]
+[47]
+File: slowing_fig3.eps Graphic file (type eps)
+ <slowing_fig3.eps>
+File: slowing_fig4.eps Graphic file (type eps)
+ <slowing_fig4.eps> [48]
+File: slowing_fig5.eps Graphic file (type eps)
+ <slowing_fig5.eps> [49]
+[50]
+File: slowing_fig6.eps Graphic file (type eps)
+ <slowing_fig6.eps>
+File: slowing_fig7.eps Graphic file (type eps)
+ <slowing_fig7.eps>
+File: slowing_fig8.eps Graphic file (type eps)
+ <slowing_fig8.eps>
+Underfull \vbox (badness 8094) has occurred while \output is active []
+
+ [51]
+File: slowing_fig9.eps Graphic file (type eps)
+
+<slowing_fig9.eps>
+File: slowing_fig10.eps Graphic file (type eps)
+ <slowing_fig10.eps> [52]
+File: slowing_fig11.eps Graphic file (type eps)
+ <slowing_fig11.eps>
+File: slowing_fig12.eps Graphic file (type eps)
+
+<slowing_fig12.eps>
+File: slowing_fig13.eps Graphic file (type eps)
+ <slowing_fig13.eps> [53]
+File: slowing_fig14.eps Graphic file (type eps)
+ <slowing_fig14.eps>
+File: slowing_fig15.eps Graphic file (type eps)
+
+<slowing_fig15.eps>
+File: slowing_fig15.eps Graphic file (type eps)
+ <slowing_fig15.eps> [54]
+File: slowing_fig15.eps Graphic file (type eps)
+ <slowing_fig15.eps>
+File: slowing_fig16.eps Graphic file (type eps)
+
+<slowing_fig16.eps>
+File: slowing_fig16.eps Graphic file (type eps)
+ <slowing_fig16.eps>
+File: slowing_fig16.eps Graphic file (type eps)
+ <slowing_fig16.eps> [55]
+File: slowing_fig17.eps Graphic file (type eps)
+
+<slowing_fig17.eps>
+Overfull \hbox (42.06612pt too wide) in paragraph at lines 520--520
+ [][] 
+ []
+
+) [56] (C:\Users\hnebel\Documents\LabPHY125\grav_freefall.tex [57
+
+
+] [58]
+[59]) [60] (C:\Users\hnebel\Documents\LabPHY125\force1.tex [61
+
+
+]
+File: force1_fig1.eps Graphic file (type eps)
+
+<force1_fig1.eps>
+File: force1_fig2.eps Graphic file (type eps)
+ <force1_fig2.eps>
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [62]
+[63]
+LaTeX Font Info:    Try loading font information for T1+cmtt on input line 107.
+
+ ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\base\t1cmtt.fd"
+File: t1cmtt.fd 1999/05/25 v2.5h Standard LaTeX font definitions
+) [64]
+File: force1_fig3.eps Graphic file (type eps)
+
+<force1_fig3.eps> [65]
+File: force1_fig4.eps Graphic file (type eps)
+ <force1_fig4.eps>
+File: force1_fig5.eps Graphic file (type eps)
+ <force1_fig5.eps> [66]
+File: force1_fig5.eps Graphic file (type eps)
+
+<force1_fig5.eps>
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [67]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [68]
+[69]
+File: force1_fig6.eps Graphic file (type eps)
+ <force1_fig6.eps>
+File: force1_fig7.eps Graphic file (type eps)
+ <force1_fig7.eps>
+File: force1_fig8.eps Graphic file (type eps)
+ <force1_fig8.eps>
+File: force1_fig9.eps Graphic file (type eps)
+ <force1_fig9.eps>
+[70]
+File: force1_fig10.eps Graphic file (type eps)
+ <force1_fig10.eps>
+File: force1_fig10.eps Graphic file (type eps)
+ <force1_fig10.eps>
+File: force1_fig10.eps Graphic file (type eps)
+ <force1_fig10.eps> [71]
+File: force1_fig11.eps Graphic file (type eps)
+
+<force1_fig11.eps>
+File: force1_fig9.eps Graphic file (type eps)
+ <force1_fig9.eps>
+File: force1_fig12.eps Graphic file (type eps)
+ <force1_fig12.eps>
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [72]
+File: force1_fig9.eps Graphic file (type eps)
+
+<force1_fig9.eps>) [73] (C:\Users\hnebel\Documents\LabPHY125\newton.tex
+File: newton_fig1.eps Graphic file (type eps)
+
+<newton_fig1.eps> [74
+
+
+]
+File: newton_fig2.eps Graphic file (type eps)
+ <newton_fig2.eps>
+File: newton_fig3.eps Graphic file (type eps)
+ <newton_fig3.eps>
+File: newton_fig4.eps Graphic file (type eps)
+ <newton_fig4.eps>
+[75]
+File: newton_fig5.eps Graphic file (type eps)
+ <newton_fig5.eps>
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [76]
+File: newton_fig6.eps Graphic file (type eps)
+
+<newton_fig6.eps> [77]
+File: newton_fig7.eps Graphic file (type eps)
+ <newton_fig7.eps>
+File: newton_fig8.eps Graphic file (type eps)
+ <newton_fig8.eps>
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [78]
+File: newton_fig9.eps Graphic file (type eps)
+
+<newton_fig9.eps> [79]
+File: newton_fig10.eps Graphic file (type eps)
+ <newton_fig10.eps>) [80]
+(C:\Users\hnebel\Documents\LabPHY125\friction.tex [81
+
+
+] [82]
+File: friction_fig1.eps Graphic file (type eps)
+
+<friction_fig1.eps> [83]
+File: friction_fig2.eps Graphic file (type eps)
+ <friction_fig2.eps>
+File: friction_fig3.eps Graphic file (type eps)
+ <friction_fig3.eps>
+File: friction_fig4.eps Graphic file (type eps)
+
+<friction_fig4.eps>
+File: friction_fig4.eps Graphic file (type eps)
+ <friction_fig4.eps>
+File: friction_fig5.eps Graphic file (type eps)
+ <friction_fig5.eps> [84]
+File: friction_fig6.eps Graphic file (type eps)
+
+<friction_fig6.eps>
+File: friction_fig4.eps Graphic file (type eps)
+ <friction_fig4.eps>) [85]
+(C:\Users\hnebel\Documents\LabPHY125\elec_grav.tex
+File: elec_grav_fig1.eps Graphic file (type eps)
+ <elec_grav_fig1.eps>
+File: elec_grav_fig2.eps Graphic file (type eps)
+
+<elec_grav_fig2.eps>
+Underfull \vbox (badness 5504) has occurred while \output is active []
+
+ [86
+
+
+]
+File: elec_grav_fig3.eps Graphic file (type eps)
+
+<elec_grav_fig3.eps>
+File: elec_grav_fig4.eps Graphic file (type eps)
+ <elec_grav_fig4.eps>
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [87]
+[88]
+Underfull \vbox (badness 3000) has occurred while \output is active []
+
+ [89])
+[90] (C:\Users\hnebel\Documents\LabPHY125\momentum.tex
+File: momentum_fig1.eps Graphic file (type eps)
+ <momentum_fig1.eps>
+[91
+
+
+] [92] [93] [94]
+File: momentum_fig2.eps Graphic file (type eps)
+ <momentum_fig2.eps>
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [95]
+File: momentum_fig3.eps Graphic file (type eps)
+
+<momentum_fig3.eps>) [96] (C:\Users\hnebel\Documents\LabPHY125\work_power.tex
+File: work_power_fig1.eps Graphic file (type eps)
+
+<work_power_fig1.eps>
+File: work_power_fig2.eps Graphic file (type eps)
+ <work_power_fig2.eps> [97
+
+
+] [98]
+File: work_power_fig3.eps Graphic file (type eps)
+ <work_power_fig3.eps>
+File: work_power_fig4.eps Graphic file (type eps)
+
+<work_power_fig4.eps>
+File: work_power_fig5.eps Graphic file (type eps)
+ <work_power_fig5.eps> [99]
+File: work_power_fig6.eps Graphic file (type eps)
+ <work_power_fig6.eps> [100]
+Underfull \vbox (badness 1365) has occurred while \output is active []
+
+ [101])
+[102] (C:\Users\hnebel\Documents\LabPHY125\work_kinetic.tex [103
+
+
+]
+File: work_kinetic_fig1.eps Graphic file (type eps)
+
+<work_kinetic_fig1.eps>
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [104]
+File: work_kinetic_fig2.eps Graphic file (type eps)
+
+<work_kinetic_fig2.eps> [105] [106] [107]) [108]
+(C:\Users\hnebel\Documents\LabPHY125\conservation_mech.tex [109
+
+
+] [110])
+[111] (C:\Users\hnebel\Documents\LabPHY125\hooke.tex
+Underfull \hbox (badness 10000) in paragraph at lines 14--15
+
+ []
+
+[112
+
+
+]) [113] (C:\Users\hnebel\Documents\LabPHY125\periodic_motion.tex
+File: periodic_motion_fig1.eps Graphic file (type eps)
+
+<periodic_motion_fig1.eps>
+Underfull \vbox (badness 1360) has occurred while \output is active []
+
+ [114
+
+
+]
+[115] [116]
+File: periodic_motion_fig2.eps Graphic file (type eps)
+ <periodic_motion_fig2.eps>
+File: periodic_motion_fig3.eps Graphic file (type eps)
+ <periodic_motion_fig3.eps>
+Underfull \vbox (badness 6641) has occurred while \output is active []
+
+ [117]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [118]
+[119]) [120] (C:\Users\hnebel\Documents\LabPHY125\pendulum_period.tex
+Underfull \hbox (badness 10000) in paragraph at lines 18--19
+
+ []
+
+[121
+
+
+]) [122] (C:\Users\hnebel\Documents\LabPHY125\heat_temp_int_energy.tex
+File: heat_temp_int_energy_fig_1.eps Graphic file (type eps)
+
+<heat_temp_int_energy_fig_1.eps> [123
+
+
+]) [124]
+(C:\Users\hnebel\Documents\LabPHY125\boyles_law.tex
+File: boyleslawfig1.eps Graphic file (type eps)
+ <boyleslawfig1.eps>
+[125
+
+
+] [126]) [127] (C:\Users\hnebel\Documents\LabPHY125\calorimetry.tex
+File: calorimetry_fig_1.eps Graphic file (type eps)
+
+<calorimetry_fig_1.eps> [128
+
+
+] [129]) [130]
+(C:\Users\hnebel\Documents\LabPHY125\Standing_waves_strings.tex [131
+
+
+]
+File: Standing_waves_strings_fig1_tb.eps Graphic file (type eps)
+
+<Standing_waves_strings_fig1_tb.eps>
+File: Standing_waves_strings_figure2.eps Graphic file (type eps)
+ <Standing_waves_strings_figure2.eps>
+[132]
+File: Standing_waves_strings_figure3.eps Graphic file (type eps)
+ <Standing_waves_strings_figure3.eps> [133] [134] [135]) [136]
+(C:\Users\hnebel\Documents\LabPHY125\resonance_tubes.tex
+Underfull \hbox (badness 10000) in paragraph at lines 22--23
+
+ []
+
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <9> on input line 24.
+
+Underfull \hbox (badness 10000) in paragraph at lines 24--25
+
+ []
+
+[137
+
+
+]) [138] (C:\Users\hnebel\Documents\LabPHY125\electrostatics.tex [139
+
+
+]
+[140] [141]) [142] (C:\Users\hnebel\Documents\LabPHY125\EF_EP_1.tex
+File: emfield1c.eps Graphic file (type eps)
+
+<emfield1c.eps> [143
+
+
+] [144]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [145])
+[146] (C:\Users\hnebel\Documents\LabPHY125\EF_EP_2.tex [147
+
+
+]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [148])
+[149] (C:\Users\hnebel\Documents\LabPHY125\ohms_law.tex
+File: ohms_law_fig_3.eps Graphic file (type eps)
+ <ohms_law_fig_3.eps>
+[150
+
+
+]
+File: ohms_law_fig_1.eps Graphic file (type eps)
+ <ohms_law_fig_1.eps>
+Underfull \vbox (badness 1259) has occurred while \output is active []
+
+ [151]
+Underfull \vbox (badness 2460) has occurred while \output is active []
+
+ [152]
+File: ohms_law_fig_2b.eps Graphic file (type eps)
+
+<ohms_law_fig_2b.eps> [153]) [154]
+(C:\Users\hnebel\Documents\LabPHY125\magnetism_1.tex [155
+
+
+] [156]) [157]
+(C:\Users\hnebel\Documents\LabPHY125\magnetism_2.tex
+File: magnetism_2_fig_1.eps Graphic file (type eps)
+ <magnetism_2_fig_1.eps>
+[158
+
+
+]
+File: magnetism_2_fig_2.eps Graphic file (type eps)
+ <magnetism_2_fig_2.eps>
+Underfull \vbox (badness 1708) has occurred while \output is active []
+
+ [159]
+File: magnetism_2_fig_3.eps Graphic file (type eps)
+
+<magnetism_2_fig_3.eps>) [160]
+(C:\Users\hnebel\Documents\LabPHY125\magnetism_3.tex [161
+
+
+]
+File: tangent_galvanometer.eps Graphic file (type eps)
+
+<tangent_galvanometer.eps> [162]) [163]
+(C:\Users\hnebel\Documents\LabPHY125\magnetic_field_earth.tex [164
+
+
+] [165])
+[166] (C:\Users\hnebel\Documents\LabPHY125\electromagnetic_induction.tex
+[167
+
+
+]) [168] (C:\Users\hnebel\Documents\LabPHY125\induction2.tex [169
+
+
+] [170]
+[171]
+File: indfig1.eps Graphic file (type eps)
+ <indfig1.eps>
+File: indfig2.eps Graphic file (type eps)
+ <indfig2.eps>
+File: indfig3.eps Graphic file (type eps)
+ <indfig3.eps>
+File: indfig4.eps Graphic file (type eps)
+ <indfig4.eps>) [172]
+(C:\Users\hnebel\Documents\LabPHY125\refraction_of_light.tex
+File: refraction_of_light_fig_1.eps Graphic file (type eps)
+
+<refraction_of_light_fig_1.eps> [173
+
+
+] [174]) [175]
+(C:\Users\hnebel\Documents\LabPHY125\refraction_at_spherical_surfaces.tex
+[176
+
+
+]) [177] (C:\Users\hnebel\Documents\LabPHY125\interference_of_light.tex
+File: interference_of_light_fig1b.eps Graphic file (type eps)
+
+<interference_of_light_fig1b.eps> [178
+
+
+] [179] [180]) [181]
+(C:\Users\hnebel\Documents\LabPHY125\diffraction2.tex [182
+
+
+]) [183]
+(C:\Users\hnebel\Documents\LabPHY125\diffraction_grating.tex) [184
+
+
+]
+(C:\Users\hnebel\Documents\LabPHY125\hydrogen.tex
+Overfull \hbox (1.14441pt too wide) in paragraph at lines 74--81
+[]\T1/cmr/m/n/10 Using the spec-trom-e-ter, mea-sure the an-gu-lar po-si-tion o
+f the di-rect beam, $\OML/cmm/m/it/10 []$\T1/cmr/m/n/10 , and record it here: 
+$\OML/cmm/m/it/10 []  \OT1/cmr/m/n/10 =  $\T1/cmr/m/n/10 degrees.
+ []
+
+[185
+
+
+] [186]) [187] (C:\Users\hnebel\Documents\LabPHY125\treatment_data.tex
+[188
+
+
+]) [189] (C:\Users\hnebel\Documents\LabPHY125\datastudio.tex
+File: datastudio_fig1.eps Graphic file (type eps)
+
+<datastudio_fig1.eps> [190
+
+
+]) [191]
+(C:\Users\hnebel\Documents\LabPHY125\excel.tex
+File: excelfigs/excelwindow.eps Graphic file (type eps)
+ <excelfigs/excelwindow.eps>
+File: excelfigs/scatterplot.eps Graphic file (type eps)
+
+<excelfigs/scatterplot.eps> [192
+
+
+]
+File: excelfigs/histf1.eps Graphic file (type eps)
+ <excelfigs/histf1.eps>
+File: excelfigs/histf2.eps Graphic file (type eps)
+
+<excelfigs/histf2.eps> [193]
+File: excelfigs/histf3.eps Graphic file (type eps)
+ <excelfigs/histf3.eps>
+File: excelfigs/histf4.eps Graphic file (type eps)
+ <excelfigs/histf4.eps>)
+[194] (C:\Users\hnebel\Documents\LabPHY125\video_analysis.tex
+Overfull \hbox (10.01775pt too wide) in paragraph at lines 81--89
+[]\T1/cmr/m/n/10 Start up \T1/cmr/m/it/10 Video-point \T1/cmr/m/n/10 by go-ing 
+to \T1/cmtt/m/n/10 Start $\OMS/cmsy/m/n/10 !$ \T1/cmtt/m/n/10 Programs $\OMS/cm
+sy/m/n/10 !$ \T1/cmtt/m/n/10 Physics Applications $\OMS/cmsy/m/n/10 !$ \T1/cmtt
+/m/n/10 VideoPoint $\OMS/cmsy/m/n/10 !$ \T1/cmtt/m/n/10 VideoPoint
+ []
+
+[195
+
+
+]) [196] (C:\Users\hnebel\Documents\LabPHY125\video_analysis_tracker.tex
+File: Tracker_figure.eps Graphic file (type eps)
+
+<Tracker_figure.eps> [197
+
+
+] [198]) [199]
+(C:\Users\hnebel\Documents\LabPHY125\instrumentation.tex [200
+
+
+]
+File: instrumentation_fig1.eps Graphic file (type eps)
+
+<instrumentation_fig1.eps> [201] [202]) [203]
+(C:\Users\hnebel\Documents\LabPHY125\master.aux
+(C:\Users\hnebel\Documents\LabPHY125\measuring.aux)
+(C:\Users\hnebel\Documents\LabPHY125\measurement.aux)
+(C:\Users\hnebel\Documents\LabPHY125\position.aux)
+(C:\Users\hnebel\Documents\LabPHY125\velocity.aux)
+(C:\Users\hnebel\Documents\LabPHY125\relating.aux)
+(C:\Users\hnebel\Documents\LabPHY125\changing.aux)
+(C:\Users\hnebel\Documents\LabPHY125\slowing.aux)
+(C:\Users\hnebel\Documents\LabPHY125\grav_freefall.aux)
+(C:\Users\hnebel\Documents\LabPHY125\force1.aux)
+(C:\Users\hnebel\Documents\LabPHY125\newton.aux)
+(C:\Users\hnebel\Documents\LabPHY125\friction.aux)
+(C:\Users\hnebel\Documents\LabPHY125\elec_grav.aux)
+(C:\Users\hnebel\Documents\LabPHY125\momentum.aux)
+(C:\Users\hnebel\Documents\LabPHY125\work_power.aux)
+(C:\Users\hnebel\Documents\LabPHY125\work_kinetic.aux)
+(C:\Users\hnebel\Documents\LabPHY125\conservation_mech.aux)
+(C:\Users\hnebel\Documents\LabPHY125\hooke.aux)
+(C:\Users\hnebel\Documents\LabPHY125\periodic_motion.aux)
+(C:\Users\hnebel\Documents\LabPHY125\pendulum_period.aux)
+(C:\Users\hnebel\Documents\LabPHY125\heat_temp_int_energy.aux)
+(C:\Users\hnebel\Documents\LabPHY125\boyles_law.aux)
+(C:\Users\hnebel\Documents\LabPHY125\calorimetry.aux)
+(C:\Users\hnebel\Documents\LabPHY125\Standing_waves_strings.aux)
+(C:\Users\hnebel\Documents\LabPHY125\resonance_tubes.aux)
+(C:\Users\hnebel\Documents\LabPHY125\electrostatics.aux)
+(C:\Users\hnebel\Documents\LabPHY125\EF_EP_1.aux)
+(C:\Users\hnebel\Documents\LabPHY125\EF_EP_2.aux)
+(C:\Users\hnebel\Documents\LabPHY125\ohms_law.aux)
+(C:\Users\hnebel\Documents\LabPHY125\magnetism_1.aux)
+(C:\Users\hnebel\Documents\LabPHY125\magnetism_2.aux)
+(C:\Users\hnebel\Documents\LabPHY125\magnetism_3.aux)
+(C:\Users\hnebel\Documents\LabPHY125\magnetic_field_earth.aux)
+(C:\Users\hnebel\Documents\LabPHY125\electromagnetic_induction.aux)
+(C:\Users\hnebel\Documents\LabPHY125\induction2.aux)
+(C:\Users\hnebel\Documents\LabPHY125\refraction_of_light.aux)
+(C:\Users\hnebel\Documents\LabPHY125\refraction_at_spherical_surfaces.aux)
+(C:\Users\hnebel\Documents\LabPHY125\interference_of_light.aux)
+(C:\Users\hnebel\Documents\LabPHY125\diffraction2.aux)
+(C:\Users\hnebel\Documents\LabPHY125\diffraction_grating.aux)
+(C:\Users\hnebel\Documents\LabPHY125\hydrogen.aux)
+(C:\Users\hnebel\Documents\LabPHY125\treatment_data.aux)
+(C:\Users\hnebel\Documents\LabPHY125\datastudio.aux)
+(C:\Users\hnebel\Documents\LabPHY125\excel.aux)
+(C:\Users\hnebel\Documents\LabPHY125\video_analysis.aux)
+(C:\Users\hnebel\Documents\LabPHY125\video_analysis_tracker.aux)
+(C:\Users\hnebel\Documents\LabPHY125\instrumentation.aux)) ) 
+Here is how much of TeX's memory you used:
+ 2434 strings out of 493922
+ 43351 string characters out of 3144897
+ 99067 words of memory out of 3000000
+ 5252 multiletter control sequences out of 15000+200000
+ 21329 words of font info for 51 fonts, out of 3000000 for 9000
+ 841 hyphenation exceptions out of 8191
+ 33i,11n,43p,1025b,367s stack positions out of 5000i,500n,10000p,200000b,50000s
+
+Output written on master.dvi (204 pages, 487108 bytes).

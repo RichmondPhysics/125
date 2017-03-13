@@ -1,0 +1,50 @@
+\select@language {english}
+\contentsline {section}{\numberline {1}Measuring and Graphing Horizontal Motion\SF@gobble@opt { 1990-93 Dept. of Physics and Astronomy, Dickinson College. Supported by FIPSE (U.S. Dept. of Ed.) and NSF. Portions of this material have been modified locally and may not have been classroom tested at Dickinson College. }}{3}
+\contentsline {section}{\numberline {2}Measurement and Uncertainty\SF@gobble@opt { 1990-93 Dept. of Physics and Astronomy, Dickinson College. Supported by FIPSE (U.S. Dept. of Ed.) and NSF. Portions of this material have been modified locally and may not have been classroom tested at Dickinson College. }}{7}
+\contentsline {section}{\numberline {3}Position vs. Time Graphs\SF@gobble@opt { 1990-93 Dept. of Physics and Astronomy, Dickinson College. Supported by FIPSE (U.S. Dept. of Ed.) and NSF. Portions of this material may have been modified locally and may not have been classroom tested at Dickinson College. }}{10}
+\contentsline {section}{\numberline {4}Velocity vs. Time Graphs\SF@gobble@opt { 1990-93 Dept. of Physics and Astronomy, Dickinson College. Supported by FIPSE (U.S. Dept. of Ed.) and NSF. Portions of this material may have been modified locally and may not have been classroom tested at Dickinson College. }}{18}
+\contentsline {section}{\numberline {5}Relating Position and Velocity Graphs\SF@gobble@opt { 1990-93 Dept. of Physics and Astronomy, Dickinson College. Supported by FIPSE (U.S. Dept. of Ed.) and NSF. Portions of this material may have been modified locally and may not have been classroom tested at Dickinson College. }}{26}
+\contentsline {section}{\numberline {6}Changing Motion\SF@gobble@opt { 1990-93 Dept. of Physics and Astronomy, Dickinson College. Supported by FIPSE (U.S. Dept. of Ed.) and NSF. Portions of this material may have been modified locally and may not have been classroom tested at Dickinson College. }}{31}
+\contentsline {section}{\numberline {7}Slowing Down, Speeding Up, and Turning\SF@gobble@opt { 1990-93 Dept. of Physics and Astronomy, Dickinson College. Supported by FIPSE (U.S. Dept. of Ed.) and NSF. Portions of this material may have been modified locally and may not have been classroom tested at Dickinson College. }}{44}
+\contentsline {section}{\numberline {8}Gravity and Free Fall\SF@gobble@opt { 1990-93 Dept. of Physics and Astronomy, Dickinson College. Supported by FIPSE (U.S. Dept. of Ed.) and NSF. Portions of this material have been modified locally and may not have been classroom tested at Dickinson College. }}{57}
+\contentsline {section}{\numberline {9}Force and Motion I\SF@gobble@opt { 1990-93 Dept. of Physics and Astronomy, Dickinson College. Supported by FIPSE (U.S. Dept. of Ed.) and NSF. Portions of this material may have been modified locally and may not have been classroom tested at Dickinson College. }}{61}
+\contentsline {section}{\numberline {10}Newton's 3rd Law, Tension, and Normal Forces\SF@gobble@opt { 1990-93 Dept. of Physics and Astronomy, Dickinson College. Supported by FIPSE (U.S. Dept. of Ed.) and NSF. Portions of this material may have been modified locally and may not have been classroom tested at Dickinson College. }}{74}
+\contentsline {section}{\numberline {11}Friction and Applying the Laws of Motion\SF@gobble@opt { 1990-93 Dept. of Physics and Astronomy, Dickinson College. Supported by FIPSE (U.S. Dept. of Ed.) and NSF. Portions of this material may have been modified locally and may not have been classroom tested at Dickinson College. }}{81}
+\contentsline {section}{\numberline {12}The Electrical and Gravitational Forces\SF@gobble@opt { 1990-93 Dept. of Physics and Astronomy, Dickinson College. Supported by FIPSE (U.S. Dept. of Ed.) and NSF. Portions of this material have been modified locally and may not have been classroom tested at Dickinson College. } }{86}
+\contentsline {section}{\numberline {13}Momentum and Momentum Change\SF@gobble@opt { 1990-93 Dept. of Physics and Astronomy, Dickinson College. Supported by FIPSE (U.S. Dept. of Ed.) and NSF. Portions of this material may have been modified locally and may not have been classroom tested at Dickinson College. }}{91}
+\contentsline {section}{\numberline {14}Work and Power\SF@gobble@opt { 1990-93 Dept. of Physics and Astronomy, Dickinson College. Supported by FIPSE (U.S. Dept. of Ed.) and NSF. Portions of this material have been modified locally and may not have been classroom tested at Dickinson College. }}{97}
+\contentsline {section}{\numberline {15}Work and Kinetic Energy\SF@gobble@opt { 1990-93 Dept. of Physics and Astronomy, Dickinson College. Supported by FIPSE (U.S. Dept. of Ed.) and NSF. Portions of this material have been modified locally and may not have been classroom tested at Dickinson College. }}{103}
+\contentsline {section}{\numberline {16}Conservation of Mechanical Energy\SF@gobble@opt { 1990-93 Dept. of Physics and Astronomy, Dickinson College. Supported by FIPSE (U.S. Dept. of Ed.) and NSF. Portions of this material may have been modified locally and may not have been classroom tested at Dickinson College. }}{109}
+\contentsline {section}{\numberline {17}Hooke's Law}{112}
+\contentsline {section}{\numberline {18}Periodic Motion}{114}
+\contentsline {section}{\numberline {19}The Period of a Pendulum}{121}
+\contentsline {section}{\numberline {20}Heat, Temperature, and Internal Energy}{123}
+\contentsline {section}{\numberline {21}Boyle's Law}{125}
+\contentsline {section}{\numberline {22}Calorimetry}{128}
+\contentsline {section}{\numberline {23}Music to Our Ears: Standing Waves in Strings}{131}
+\contentsline {section}{\numberline {24}Resonance in Tubes}{137}
+\contentsline {section}{\numberline {25}Electrostatics}{139}
+\contentsline {section}{\numberline {26}The Electric Field and the Electric Potential I}{143}
+\contentsline {section}{\numberline {27}The Electric Field and the Electric Potential II}{147}
+\contentsline {section}{\numberline {28}Ohm's Law}{150}
+\contentsline {section}{\numberline {29}Magnetism I}{155}
+\contentsline {section}{\numberline {30}Magnetism II}{158}
+\contentsline {section}{\numberline {31}Magnetism III}{161}
+\contentsline {section}{\numberline {32}Magnetic Field of the Earth}{164}
+\contentsline {section}{\numberline {33}Electromagnetic Induction}{167}
+\contentsline {section}{\numberline {34}Electromagnetic Induction II}{169}
+\contentsline {section}{\numberline {35}Refraction of Light}{173}
+\contentsline {section}{\numberline {36}Refraction at Spherical Surfaces: Thin Lenses}{176}
+\contentsline {section}{\numberline {37}The Interference of Light}{178}
+\contentsline {section}{\numberline {38}Diffraction 2}{182}
+\contentsline {section}{\numberline {39}The Diffraction Grating}{184}
+\contentsline {section}{\numberline {40}The Optical Spectrum of Hydrogen}{185}
+\contentsline {section}{\numberline {A}Treatment of Experimental Data}{188}
+\contentsline {section}{\numberline {B}Introduction to DataStudio}{190}
+\contentsline {section}{\numberline {C}Introduction to Excel}{192}
+\contentsline {subsection}{\numberline {C.1}Data and formulae}{192}
+\contentsline {subsection}{\numberline {C.2}Graphs}{192}
+\contentsline {subsection}{\numberline {C.3}Making Histograms}{193}
+\contentsline {section}{\numberline {D}Video Analysis Using VideoPoint}{195}
+\contentsline {section}{\numberline {E}Video Analysis Using Tracker}{197}
+\contentsline {section}{\numberline {F}Instrumentation}{200}
