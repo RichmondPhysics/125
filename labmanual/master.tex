@@ -6,10 +6,10 @@
 
 %The \includeonly line below is a great way to save time so you don't always have to compile the WHOLE latex document, if for instance you've only made changes to a single lab.  If you want to compile more than two labs, the syntax is \includeonly{lab1,lab2,lab3} with no spaces after the commas.
 %The master.pdf produced will have only the title page, TOC, and that single lab, though the other lab names will appear in the TOC.
-%\includeonly{instrumentation}
+\includeonly{measurement,measurement_uncertainty}
 
 %Use the following line to override all of the 1's and 0's in the \includelab statements below
-%\includealllabstrue
+\includealllabstrue
 
 %\renewcommand{\section}{\cleardoublepage\NoExtraPageSection} %Makes each lab start on odd numbered page (right hand side).
 
@@ -24,43 +24,37 @@
 %--------------------------------------------
 \part{Kinematics}
 
-\include{measuring}
-%\include{walking_speed}
-%\include{converting_units}
-\include{measurement}
-%\include{measurement_length}
-%\include{determining_pi}
-%\include{measurement_uncertainty}
-\include{position}
-\include{velocity}
-\include{relating}
-%\include{instantaneous_velocity}
-\include{changing}
-\include{slowing}
-%\include{equations}
-\include{grav_freefall}
-%\include{acceleration}
-%\include{reaction_time}
-%\include{tossed_ball}
-%\include{independence}
-%\include{ski_jump}
-%\include{projectile}
-%\include{circ_motion}
+\includelab{1}{measuring} %teeny changes from 131(?)
+\includelab{0}{walking_speed} %131 equivalent
+\includelab{0}{converting_units} %131 equivalent
+\includelab{1}{measurement} %131 equivalent
+\includelab{0}{measurement_length} %131 equivalent
+\includelab{0}{determining_pi} %131 equivalent
+\includelab{0}{measurement_uncertainty} % different from 131.  (Activity 4)
+\includelab{1}{position} %131 equivalent
+\includelab{1}{velocity} %131 equivalent
+\includelab{1}{relating} %131 equivalent
+\includelab{0}{instantaneous_velocity} %131 equivalent
+\includelab{1}{changing} %131 equivalent
+\includelab{1}{slowing} %131 equivalent
+\includelab{0}{equations} %131 equivalent
+\includelab{1}{grav_freefall} %131 equivalent
+\includelab{0}{acceleration} %131 equivalent
+\includelab{0}{reaction_time} %131 equivalent
+\includelab{0}{tossed_ball} %131 equivalent
+\includelab{0}{independence} %131 equivalent
+\includelab{0}{ski_jump} %131 equivalent
+\includelab{0}{projectile} %131 equivalent
+\includelab{0}{circ_motion} %131 equivalent
 
 %--------------------------------------------
 \part{Newton's Laws}
 
-\include{force1}
-%\include{force2}
-%\include{combining}
-%\include{force_mass}
-\include{newton}
-%\include{atwood}
-\include{friction}
-\include{elec_grav}
-\include{momentum}
-%\include{centripetal}
-%\include{kepler}
+\includelab{1}{force1} %131 equivalent
+\includelab{0}{force2} %131 equivalent
+\includelab{0}{combining} %131 equivalent
+\includelab{0}{force_mass} %131 equivalent
+\includelab{1}{newton} %131 equivalent
 
 %--------------------------------------------
 \part{Conservation Laws}
