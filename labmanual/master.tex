@@ -6,7 +6,7 @@
 
 %The \includeonly line below is a great way to save time so you don't always have to compile the WHOLE latex document, if for instance you've only made changes to a single lab.  If you want to compile more than two labs, the syntax is \includeonly{lab1,lab2,lab3} with no spaces after the commas.
 %The master.pdf produced will have only the title page, TOC, and that single lab, though the other lab names will appear in the TOC.
-\includeonly{measurement,measurement_uncertainty}
+%\includeonly{work_power}
 
 %Use the following line to override all of the 1's and 0's in the \includelab statements below
 \includealllabstrue
@@ -34,10 +34,10 @@
 \includelab{1}{position} %131 equivalent
 \includelab{1}{velocity} %131 equivalent
 \includelab{1}{relating} %131 equivalent
-\includelab{0}{instantaneous_velocity} %131 equivalent
+\includelab{0}{instantaneous_velocity} %131 equivalent, but not suitable for 125 (uses derivatives)
 \includelab{1}{changing} %131 equivalent
 \includelab{1}{slowing} %131 equivalent
-\includelab{0}{equations} %131 equivalent
+\includelab{0}{equations} %131 equivalent, but not suitable for 125 (significant calculus mentions)
 \includelab{1}{grav_freefall} %131 equivalent
 \includelab{0}{acceleration} %131 equivalent
 \includelab{0}{reaction_time} %131 equivalent
@@ -50,7 +50,7 @@
 %--------------------------------------------
 \part{Newton's Laws}
 
-\includelab{1}{force1} %131 equivalent
+\includelab{1}{force1} %131 equivalent (but does say ``derivative'' in one homework problem. fixable.)
 \includelab{0}{force2} %131 equivalent
 \includelab{0}{combining} %131 equivalent
 \includelab{0}{force_mass} %131 equivalent
@@ -58,84 +58,84 @@
 \includelab{0}{atwood} %131 equivalent
 \includelab{1}{friction} %131 equivalent
 \includelab{1}{elec_grav} %131 equivalent
-\includelab{1}{momentum} %Significant differences from 131 version, but I think 131 is okay.  Check this.
+\includelab{1}{momentum} %Significant differences from 131 version, but I think 131 version is okay.  Check this.
 \includelab{0}{centripetal} %131 equivalent
 \includelab{0}{kepler} %131 equivalent
 
 %--------------------------------------------
 \part{Conservation Laws}
 
-\include{work_power}
-\include{work_kinetic}
-\include{conservation_mech}
-%\include{conservative}
-%\include{momentum}
-%\include{impulse}
-%\include{newtons_laws}
-%\include{mom_cons}
-%\include{twod_collisions}
+\includelab{1}{work_power} %131 equivalent, does include single mention of dW/dt
+\includelab{1}{work_kinetic} %131 equivalent, but doesn't seem appropriate for 125 (says ``differentiate'')
+\includelab{1}{conservation_mech} %131 equivalent
+\includelab{0}{conservative} %131 equivalent, but note reference to ``next semester'' :-)
+\includelab{0}{momentum} %131 equivalent, but uses calculus
+\includelab{0}{impulse} %131 equivalent, but uses calculus
+\includelab{0}{newtons_laws} %131 equivalent, but uses calculus
+\includelab{0}{mom_cons} %131 equivalent
+\includelab{0}{twod_collisions} %131 equivalent
 
 %--------------------------------------------
 %\part{Rotational Motion}
 
-%\include{ang_lin_displacement}
-%\include{rotation}
-%\include{newtons_2law_rot}
-%\include{rolling}
-%\include{moment_inertia}
-%\include{ang_mom}
-%\include{cons_ang_mom}
+\includelab{0}{ang_lin_displacement}  %131 equivalent
+\includelab{0}{rotation} %131 equivalent, but not suitable for 125 (uses derivatives)
+\includelab{0}{newtons_2law_rot} %131 equivalent
+\includelab{0}{rolling} %131 equivalent
+\includelab{0}{moment_inertia}  %131 equivalent
+\includelab{0}{ang_mom} %131 equivalent, uses calculus
+\includelab{0}{cons_ang_mom} %131 equivalent, uses calculus
 
 %--------------------------------------------
-\part{Oscillation}
+\part{Oscillation, Resonance, and Waves}
 
-\include{hooke}
-\include{periodic_motion}
-\include{pendulum_period}
-%\include{resonance}
-%\include{Standing_waves_strings}
-%\include{resonance_tubes}
+\include{hooke}  %131 equivalent
+\include{periodic_motion}  %131 equivalent
+\include{pendulum_period} %131 equivalent
+%\include{resonance} %131 equivalent
+%\include{Standing_waves_strings} %lots of uncertainty calculation here.  Might not use this one.
+%\include{resonance_tubes} 
 
 %--------------------------------------------
 \part{Thermodynamics}
 
-\include{heat_temp_int_energy}
-%\include{calorimetry}
-\include{boyles_law}
-\include{calorimetry}
-%\include{charles_law}
-%\include{P-T}
+\include{heat_temp_int_energy} %132 equivalent
+%\include{calorimetry}  %132 equivalent
+\include{boyles_law} %132 equivalent
+\include{calorimetry} %132 equivalent
+%\include{charles_law} %132 equivalent
+%\include{P-T} %132 equivalent
 
 %--------------------------------------------
 \part{Mechanical Waves}
 
-\include{Standing_waves_strings}
-\include{resonance_tubes}
+\include{Standing_waves_strings} %132 equivalent
+\include{resonance_tubes} %132 equivalent
 
 %--------------------------------------------
 \part{Electricity and Magnetism}
 
-\include{electrostatics}
+\include{electrostatics} %132 equivalent
 %\include{ef_equipot_lines}
-\include{EF_EP_1}
-\include{EF_EP_2}
-\include{ohms_law}
-\include{magnetism_1}
-\include{magnetism_2}
-\include{magnetism_3}
-\include{magnetic_field_earth}
-\include{electromagnetic_induction}
-\include{induction2}
+\include{EF_EP_1} %132 equivalent
+\include{EF_EP_2} %132 equivalent
+\include{ohms_law} %132 equivalent
+\include{magnetism_1} %132 equivalent
+\include{magnetism_2} %132 equivalent
+\include{magnetism_3} %132 equivalent
+\include{magnetic_field_earth} %132 equivalent
+\include{electromagnetic_induction} %132 equivalent
+\include{induction2} %132 equivalent
 
 %--------------------------------------------
 \part{Optics}
 
-\include{refraction_of_light}
-\include{refraction_at_spherical_surfaces}
-\include{interference_of_light}
-\include{diffraction2}
-\include{diffraction_grating}
-\include{hydrogen}
+\include{refraction_of_light} %132 equivalent
+\include{refraction_at_spherical_surfaces} %132 equivalent
+\include{interference_of_light} %132 equivalent
+\include{diffraction2} %132 equivalent
+\include{diffraction_grating} %132 equivalent
+\include{hydrogen} %132 equivalent
 
 %--------------------------------------------
 %\part{Other Topics}
