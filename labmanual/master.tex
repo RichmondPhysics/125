@@ -6,10 +6,10 @@
 
 %The \includeonly line below is a great way to save time so you don't always have to compile the WHOLE latex document, if for instance you've only made changes to a single lab.  If you want to compile more than two labs, the syntax is \includeonly{lab1,lab2,lab3} with no spaces after the commas.
 %The master.pdf produced will have only the title page, TOC, and that single lab, though the other lab names will appear in the TOC.
-%\includeonly{work_power}
+%\includeonly{appendices/excel/excel}
 
 %Use the following line to override all of the 1's and 0's in the \includelab statements below
-\includealllabstrue
+%\includealllabstrue
 
 %\renewcommand{\section}{\cleardoublepage\NoExtraPageSection} %Makes each lab start on odd numbered page (right hand side).
 
@@ -20,128 +20,111 @@
 
 \setcounter{tocdepth}{1}\tableofcontents{}
 
-%use \includelab[1] to include, or \includelab[0] to exclude.  Can be overridden with \includealllabstrue
+%Use \includelab{1} to include, or \includelab{0} to exclude.  Overridden with \includealllabstrue or \includeonly
 %--------------------------------------------
 \part{Kinematics}
 
-\includelab{1}{measuring} %teeny changes from 131(?)
-\includelab{0}{walking_speed} %131 equivalent
-\includelab{0}{converting_units} %131 equivalent
-\includelab{1}{measurement} %131 equivalent
-\includelab{0}{measurement_length} %131 equivalent
-\includelab{0}{determining_pi} %131 equivalent
-\includelab{0}{measurement_uncertainty} % different from 131.  (Activity 4)
-\includelab{1}{position} %131 equivalent
-\includelab{1}{velocity} %131 equivalent
-\includelab{1}{relating} %131 equivalent
-\includelab{0}{instantaneous_velocity} %131 equivalent, but not suitable for 125 (uses derivatives)
-\includelab{1}{changing} %131 equivalent
-\includelab{1}{slowing} %131 equivalent
-\includelab{0}{equations} %131 equivalent, but not suitable for 125 (significant calculus mentions)
-\includelab{1}{grav_freefall} %131 equivalent
-\includelab{0}{acceleration} %131 equivalent
-\includelab{0}{reaction_time} %131 equivalent
-\includelab{0}{tossed_ball} %131 equivalent
-\includelab{0}{independence} %131 equivalent
-\includelab{0}{ski_jump} %131 equivalent
-\includelab{0}{projectile} %131 equivalent
-\includelab{0}{circ_motion} %131 equivalent
+\includelab{1}[../../131/StudentGuideModule1/]{measuring/measuring} 
+\includelab{0}[../../131/StudentGuideModule1/]{walking_speed}
+\includelab{0}[../../131/StudentGuideModule1/]{converting_units}
+\includelab{1}[../../131/StudentGuideModule1/]{measurement}
+\includelab{0}[../../131/StudentGuideModule1/]{measurement_length}
+\includelab{0}[../../131/StudentGuideModule1/]{determining_pi}
+\includelab{0}[../../131/StudentGuideModule1/]{measurement_uncertainty/measurement_uncertainty}
+\includelab{1}[../../131/StudentGuideModule1/]{position/position}
+\includelab{1}[../../131/StudentGuideModule1/]{velocity/velocity}
+\includelab{1}[../../131/StudentGuideModule1/]{relating/relating}
+\includelab{0}[../../131/StudentGuideModule1/]{instantaneous_velocity/instantaneous_velocity} %uses derivatives
+\includelab{1}[../../131/StudentGuideModule1/]{changing/changing}
+\includelab{1}[../../131/StudentGuideModule1/]{slowing/slowing}
+\includelab{0}[../../131/StudentGuideModule1/]{equations/equations} %significant calculus mentions
+\includelab{1}[../../131/StudentGuideModule1/]{grav_freefall}
+\includelab{0}[../../131/StudentGuideModule1/]{acceleration/acceleration}
+\includelab{0}[../../131/StudentGuideModule1/]{reaction_time}
+\includelab{0}[../../131/StudentGuideModule1/]{tossed_ball}
+\includelab{0}[../../131/StudentGuideModule1/]{independence/independence}
+\includelab{0}[../../131/StudentGuideModule1/]{ski_jump/ski_jump}
+\includelab{0}[../../131/StudentGuideModule1/]{projectile}
+\includelab{0}[../../131/StudentGuideModule1/]{circ_motion/circ_motion}
 
 %--------------------------------------------
 \part{Newton's Laws}
 
-\includelab{1}{force1} %131 equivalent (but does say ``derivative'' in one homework problem. fixable.)
-\includelab{0}{force2} %131 equivalent
-\includelab{0}{combining} %131 equivalent
-\includelab{0}{force_mass} %131 equivalent
-\includelab{1}{newton} %131 equivalent
-\includelab{0}{atwood} %131 equivalent
-\includelab{1}{friction} %131 equivalent
-\includelab{1}{elec_grav} %131 equivalent
-\includelab{1}{momentum} %Significant differences from 131 version, but I think 131 version is okay.  Check this.
-\includelab{0}{centripetal} %131 equivalent
-\includelab{0}{kepler} %131 equivalent
+\includelab{1}[../../131/StudentGuideModule1/]{force1/force1} %says ``derivative'' in one homework problem. fixable.
+\includelab{0}[../../131/StudentGuideModule1/]{force2/force2}
+\includelab{0}[../../131/StudentGuideModule1/]{combining/combining}
+\includelab{0}[../../131/StudentGuideModule1/]{force_mass}
+\includelab{1}[../../131/StudentGuideModule1/]{newton/newton}
+\includelab{0}[../../131/StudentGuideModule1/]{atwood/atwood}
+\includelab{1}[../../131/StudentGuideModule1/]{friction/friction}
+\includelab{1}[../../131/StudentGuideModule1/]{elec_grav/elec_grav}
+\includelab{1}[../../131/StudentGuideModule1/]{momentum/momentum} %Check if okay for 125? --MT
+\includelab{0}[../../131/StudentGuideModule1/]{centripetal}
+\includelab{0}[../../131/StudentGuideModule1/]{kepler}
 
 %--------------------------------------------
 \part{Conservation Laws}
 
-\includelab{1}{work_power} %131 equivalent, does include single mention of dW/dt
-\includelab{1}{work_kinetic} %131 equivalent, but doesn't seem appropriate for 125 (says ``differentiate'')
-\includelab{1}{conservation_mech} %131 equivalent
-\includelab{0}{conservative} %131 equivalent, but note reference to ``next semester'' :-)
-\includelab{0}{momentum} %131 equivalent, but uses calculus
-\includelab{0}{impulse} %131 equivalent, but uses calculus
-\includelab{0}{newtons_laws} %131 equivalent, but uses calculus
-\includelab{0}{mom_cons} %131 equivalent
-\includelab{0}{twod_collisions} %131 equivalent
-
-%--------------------------------------------
-%\part{Rotational Motion}
-
-\includelab{0}{ang_lin_displacement}  %131 equivalent
-\includelab{0}{rotation} %131 equivalent, but not suitable for 125 (uses derivatives)
-\includelab{0}{newtons_2law_rot} %131 equivalent
-\includelab{0}{rolling} %131 equivalent
-\includelab{0}{moment_inertia}  %131 equivalent
-\includelab{0}{ang_mom} %131 equivalent, uses calculus
-\includelab{0}{cons_ang_mom} %131 equivalent, uses calculus
+\includelab{1}[../../131/StudentGuideModule1/]{work_power/work_power} %includes single mention of dW/dt
+\includelab{1}[../../131/StudentGuideModule1/]{work_kinetic/work_kinetic} %says ``differentiate''
+\includelab{1}[../../131/StudentGuideModule1/]{conservation_mech}
+\includelab{0}[../../131/StudentGuideModule1/]{conservative/conservative} %note reference to ``next semester'' :-)
+\includelab{0}[../../131/StudentGuideModule1/]{momentum/momentum} %uses calculus
+\includelab{0}[../../131/StudentGuideModule1/]{impulse/impulse} %uses calculus
+\includelab{0}[../../131/StudentGuideModule1/]{newtons_laws/newtons_laws} %uses calculus
+\includelab{0}[../../131/StudentGuideModule1/]{mom_cons/mom_cons}
+\includelab{0}[../../131/StudentGuideModule1/]{twod_collisions/twod_collisions}
 
 %--------------------------------------------
 \part{Oscillation, Resonance, and Waves}
 
-\include{hooke}  %131 equivalent
-\include{periodic_motion}  %131 equivalent
-\include{pendulum_period} %131 equivalent
-%\include{resonance} %131 equivalent
-%\include{Standing_waves_strings} %lots of uncertainty calculation here.  Might not use this one.
-%\include{resonance_tubes} 
+\includelab{1}[../../131/StudentGuideModule1/]{hooke}
+\includelab{1}[../../131/StudentGuideModule1/]{periodic_motion/periodic_motion}
+\includelab{1}[../../131/StudentGuideModule1/]{pendulum_period}
+\includelab{0}[../../131/StudentGuideModule1/]{resonance}
+\includelab{0}[../../132/StudentGuideModule2/]{standing_waves_strings/standing_waves_strings} %lots of uncertainty calculations here. 
+\includelab{0}[../../132/StudentGuideModule2/]{resonance_tubes} 
 
 %--------------------------------------------
 \part{Thermodynamics}
 
-\include{heat_temp_int_energy} %132 equivalent
-%\include{calorimetry}  %132 equivalent
-\include{boyles_law} %132 equivalent
-\include{calorimetry} %132 equivalent
-%\include{charles_law} %132 equivalent
-%\include{P-T} %132 equivalent
-
-%--------------------------------------------
-\part{Mechanical Waves}
-
-\include{Standing_waves_strings} %132 equivalent
-\include{resonance_tubes} %132 equivalent
+\includelab{1}[../../132/StudentGuideModule2/]{heat_temp_int_energy/heat_temp_int_energy}
+\includelab{1}[../../132/StudentGuideModule2/]{boyles_law}
+\includelab{1}[../../132/StudentGuideModule2/]{calorimetry/calorimetry}
+\includelab{0}[../../132/StudentGuideModule2/]{charles_law/charles_law}
+\includelab{0}[../../132/StudentGuideModule2/]{P-T_relationship_of_gas/P-T}
 
 %--------------------------------------------
 \part{Electricity and Magnetism}
 
-\include{electrostatics} %132 equivalent
-%\include{ef_equipot_lines}
-\include{EF_EP_1} %132 equivalent
-\include{EF_EP_2} %132 equivalent
-\include{ohms_law} %132 equivalent
-\include{magnetism_1} %132 equivalent
-\include{magnetism_2} %132 equivalent
-\include{magnetism_3} %132 equivalent
-\include{magnetic_field_earth} %132 equivalent
-\include{electromagnetic_induction} %132 equivalent
-\include{induction2} %132 equivalent
+\includelab{1}[../../132/StudentGuideModule2/]{electroscope/electroscope}
+\includelab{1}[../../132/StudentGuideModule2/]{electric_field_and_electric_potential/EF_EP_1}
+\includelab{1}[../../132/StudentGuideModule2/]{electric_field_and_electric_potential/EF_EP_2}
+\includelab{1}[../../132/StudentGuideModule2/]{electric_circuits/electric_circuits}
+\includelab{1}[../../132/StudentGuideModule2/]{electric_circuits2/electric_circuits2}
+\includelab{1}[../../132/StudentGuideModule2/]{electric_power/electric_power}
+\includelab{1}[../../132/StudentGuideModule2/]{magnetism_qualitative}
+\includelab{1}[../../132/StudentGuideModule2/]{magnetic_forces/magnetic_forces}
+\includelab{1}[../../132/StudentGuideModule2/]{magnetism_currents/magnetism_currents}
+\includelab{1}[../../132/StudentGuideModule2/]{magnetic_field_earth}
+\includelab{1}[../../132/StudentGuideModule2/]{induction_intro/induction_intro}
+\includelab{0}[../../132/StudentGuideModule2/]{induction_sinusoidal/induction_sinusoidal} %132 equivalent
 
 %--------------------------------------------
 \part{Optics}
 
-\include{refraction_of_light} %132 equivalent
-\include{refraction_at_spherical_surfaces} %132 equivalent
-\include{interference_of_light} %132 equivalent
-\include{diffraction2} %132 equivalent
-\include{diffraction_grating} %132 equivalent
-\include{hydrogen} %132 equivalent
+\includelab{1}[../../132/StudentGuideModule2/]{refraction_of_light/refraction_of_light} %132 equivalent
+\includelab{1}[../../132/StudentGuideModule2/]{refraction_at_spherical_surfaces/refraction_at_spherical_surfaces} %132 equivalent
+\includelab{1}[../../132/StudentGuideModule2/]{interference_of_light/interference} %132 equivalent
+\includelab{1}[../../132/StudentGuideModule2/]{diffraction_of_light/diffraction} %132 equivalent
+\includelab{1}[../../132/StudentGuideModule2/]{diffraction_grating} %132 equivalent
+\includelab{1}[../../132/StudentGuideModule2/]{hydrogen} %132 equivalent
 
 %--------------------------------------------
 %\part{Other Topics}
 
-%\include{galilean_relativity}
-%\include{twins_paradox}
+\includelab{0}[../../131/StudentGuideModule1/]{galilean_relativity}
+\includelab{0}[../../131/StudentGuideModule1/]{twins_paradox}
 
 %--------------------------------------------
 %\part{Appendices}
@@ -150,12 +133,13 @@
 \renewcommand{\section}{\NoExtraPageSection} %Makes NO extra page break after each appendix; Appendices can start on odd or even page (right or left side).
 \appendix
 
-\includelab{1}{appendices/treatment_data_from131}
-\includelab{1}{appendices/datastudio_from131}
-\includelab{0}{appendices/capstone_from131}
-\includelab{1}{appendices/excel_from131}
-\includelab{1}{appendices/video_analysis_tracker_from131}
-\includelab{1}{appendices/one_page_uncertainty_from131}
-\includelab{1}{appendices/instrumentation_from131}
+\includelab{1}[../../131/StudentGuideModule1/]{appendices/treatment_data}
+\includelab{0}[../../131/StudentGuideModule1/]{appendices/datastudio/datastudio}
+\includelab{1}[../../131/StudentGuideModule1/]{appendices/capstone/capstone}
+\includelab{1}[../../131/StudentGuideModule1/]{appendices/excel/excel}
+\includelab{1}[../../131/StudentGuideModule1/]{appendices/video_analysis_tracker/video_analysis_tracker}
+\includelab{1}[../../131/StudentGuideModule1/]{appendices/one_page_uncertainty/one_page_uncertainty}
+\includelab{0}[../../131/StudentGuideModule1/]{appendices/instrumentation/instrumentation}
+\includelab{0}[../../132/StudentGuideModule2/]{appendices/nuke_safety/nuke_safety}
 
 \end{document}
